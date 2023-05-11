@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+My name is Aneliya Mukhamedkarimova. I am a marketer with experience in finance, textile, automobile, and adverting industries. I specialize on marketing strategy and product development. Love to share my knowledge and improve processes. 
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
+
+
 <!--
 **aneliyakarim/aneliyakarim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
