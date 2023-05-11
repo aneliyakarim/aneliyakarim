@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 My name is Aneliya Mukhamedkarimova. I am a marketer with experience in finance, textile, automobile, and adverting industries. I specialize on marketing strategy and product development. Love to share my knowledge and improve processes. 
+Today I study app development in the Apple Developer Academy for three reasons:
+1) to provide better learning experience to my students,
+2) to develop products people will enjoy,
+3) to live my life doing what I love. 
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture>
+
 
 
 <!--
