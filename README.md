@@ -24,6 +24,11 @@ In my working and learning environment, I am committed to being a good teammate,
 ### Benefiting ☀️♻️🪴
 Being passionate about sharing, I run a club for marketers in my hometown to let marketers learn from each other for free. I also try continuously to provide possible financial support to educational and nature projects and creative projects on Kickstarter. 
 
+### Hobbies 😍
+Freeskating ➿➿
+Sketchnoting ✏️
+Stop-motion animation 🎥
+
 <!--
 **aneliyakarim/aneliyakarim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
